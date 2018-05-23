@@ -74,7 +74,5 @@
 
         <source-file src="src/ios/TunePlugin.m" />
         <header-file src="src/ios/TunePlugin.h" />
-
-        <framework src="Tune" type="podspec" spec="~> 5.1.0" />
     </platform>
 </plugin>
